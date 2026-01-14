@@ -11,3 +11,6 @@ modelling work during the in-person workshop.
 - Terminal basics
 - Git and GitHub exercises
 - Installation of packages and use of virtual environments (Python)
+- Building and running model through CHAP
+
+Detailed notes and verification are provided in `docs/preparation_log.md`
